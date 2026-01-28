@@ -2,18 +2,8 @@
   "$schema": "./node_modules/json-server/schema.json",
   "posts": [
     {
-      "id": "3",
-      "title": "another title",
-      "views": 200
-    },
-    {
       "id": "4",
       "title": "chu tu",
-      "views": "900"
-    },
-    {
-      "id": "5",
-      "title": "to",
       "views": "900"
     },
     {
